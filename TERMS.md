@@ -54,6 +54,7 @@ Battelle Memorial Institute. The views and opinions of authors
 expressed herein do not necessarily state or reflect those of the
 United States Government or any agency thereof.
 
-PACIFIC NORTHWEST NATIONAL LABORATORY
-operated by BATTELLE for the UNITED STATES DEPARTMENT OF ENERGY
-under Contract DE-AC05-76RL01830
+NATIONAL RENEWABLE ENERGY LABORATORY
+operated by ALLIANCE FOR SUSTAINABLE ENERGY
+for the UNITED STATES DEPARTMENT OF ENERGY
+under Contract DE-AC36-08GO28308
